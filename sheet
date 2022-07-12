@@ -1,0 +1,5 @@
+**** Extract list of files
+Open Command Prompt
+type "cd" + space + drag the target folder
+type dir /B > filelist.txt
+filelist.txt will be saved on the target folder
